@@ -8,6 +8,7 @@ dependencies:
   - distributed
   - act-atmos
   - dask-kubernetes
+  - dask-gateway==0.7.1
   - gcsfs
   - matplotlib
   - numcodecs
@@ -15,6 +16,7 @@ dependencies:
   - lz4
   - nomkl
   - nbserverproxy
+  - pangeo-notebook
   - jupyter
   - jupyterlab=0.35
   - jupyterlab_launcher
