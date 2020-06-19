@@ -1,8 +1,8 @@
 =============================
-PyDDA-Pangeo-Example
+EMC2-Pangeo-Example
 =============================
 
-PyDDA-Pangeo-Example contains all the boilerplate you need to create a Pangeo-Binder ready repository.
+EMC2Pangeo-Example contains all the boilerplate you need to create a Pangeo-Binder ready repository.
 
 Try these notebooks on pangeo.binder.io_ : |Binder|
 
@@ -16,5 +16,5 @@ Features
 .. _pangeo.binder.io: http://binder.pangeo.io/
 
 .. |Binder| image:: http://binder.pangeo.io/badge.svg
-    :target: http://binder.pangeo.io/v2/gh/rcjackson/pydda_pangeo_example/master
+    :target: http://binder.pangeo.io/v2/gh/rcjackson/emc2_pangeo/master
 
