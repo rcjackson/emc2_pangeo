@@ -60,7 +60,7 @@ dependencies:
  - cmip6_preprocessing
  - seaborn
  - nc-time-axis
-  - pip:
+ - pip:
     - kubernetes
     - graphviz
     - git+https://github.com/columncolab/EMC2.git
