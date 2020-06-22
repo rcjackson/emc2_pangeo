@@ -4,12 +4,13 @@ channels:
 dependencies:
  - python=3.7*
  - pangeo-notebook=2020.05.10
+ - dask-gateway=0.7.1
  - pip=20
  - act-atmos
  - cartopy
  - xarray
  - dask
- - distributed
+ - distributed=2.19.0
  - numpy
  - scipy
 # additional packages on top of pangeo notebook
