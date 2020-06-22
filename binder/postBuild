@@ -6,5 +6,6 @@ jupyter labextension install --clean \
                             dask-labextension \
                             @pyviz/jupyterlab_pyviz \
                             jupyter-leaflet
+cd binder
 ./provision.sh
 #EOF
