@@ -16,8 +16,6 @@ dependencies:
  - geoviews-core
  - h5netcdf
  - h5py
- - holoviews
- - hvplot
  - intake
  - intake-esm
  - intake-geopandas
