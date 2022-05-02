@@ -13,6 +13,7 @@ dependencies:
  - distributed
  - numpy
  - scipy
+ - nodejs
 # additional packages on top of pangeo notebook
  - pip:
     - kubernetes
