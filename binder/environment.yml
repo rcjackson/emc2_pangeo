@@ -2,19 +2,19 @@ name: pangeo
 channels:
  - conda-forge
 dependencies:
- - python=3.7*
- - pangeo-notebook=2020.05.10
- - dask-gateway=0.7.1
- - pip=20
+ - python=3.9
+ - pangeo-notebook
+ - dask-gateway
+ - pip
  - act-atmos
  - cartopy
  - xarray
  - dask
- - distributed=2.19.0
+ - distributed
  - numpy
  - scipy
 # additional packages on top of pangeo notebook
  - pip:
     - kubernetes
     - graphviz
-    - git+https://github.com/columncolab/EMC2.git
+    - emc2
